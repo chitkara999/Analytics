@@ -1,0 +1,12 @@
+ID,Name,Gender,Age,School,Absent,Marks
+1,A,M,20,St Thomas,2,402
+2,B,F,24,St Thomas,3,387
+3,C,M,19,St Marys,6,
+4,D,M,,St Thomas,0,452
+5,E,F,21,St Marys,8,348
+6,F,F,19,St Marys,,299
+7,G,M,34,St Thomas,2,490
+8,H,M,,St Thomas,8,372
+9,I,F,21,St Thomas,12,340
+10,J,F,23,St Marys,10,415
+10,J,F,23,St Marys,10,415
